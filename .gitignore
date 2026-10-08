@@ -1,0 +1,23 @@
+# Claude Code (configuração local)
+.claude/
+CLAUDE.local.md
+.mcp.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Tiled (estado local da sessão)
+*.tiled-session
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Node
+node_modules/
+
+# Temporários
+*.log
+*.tmp
